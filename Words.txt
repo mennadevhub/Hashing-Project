@@ -1,0 +1,16 @@
+project Data Structure
+
+Mayar Tasneem Reham Menna
+
+submit the project to prettiest Dr. Norhan 
+
+Data structures are fundamental concepts in computer science that help in organizing and storing data efficiently . They allow programmers to manage and access data quickly for various operations like searching , sorting , inserting , and deleting . Common types include arrays , linked lists , stacks , queues , trees , and graphs . Choosing the right data structure is essential for building efficient and optimized software solutions .
+   
+
+
+
+
+
+
+
+
